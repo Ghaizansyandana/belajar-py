@@ -1,0 +1,1 @@
+print("Hello, Nama saya gojin dan Pymu sudah jalan")
