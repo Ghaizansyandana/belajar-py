@@ -24,4 +24,3 @@ def cari_jawaban(teks):
             print("Bot: Bye love youu")
             break
         print("Bot:", cari_jawaban(teks))
-

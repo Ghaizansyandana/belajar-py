@@ -1,0 +1,9 @@
+Struk Pembelian Restoran Gojin Rebel
+------------------------------------
+- ayam goreng : Rp15000
+-------------------------
+Subtotal : Rp15000
+Total     : Rp15000
+Uang     : Rp20000
+-------------------------
+Trima kasih Sudah Mampir 
